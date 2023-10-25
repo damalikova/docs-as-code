@@ -22,7 +22,6 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
-    'sphinx_wagtail_theme',
     'sphinxawesome.highlighting',
     'sphinxawesome.docsearch'
 ]
