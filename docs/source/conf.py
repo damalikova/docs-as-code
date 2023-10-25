@@ -22,8 +22,7 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
-    'sphinxawesome.highlighting',
-    'sphinxawesome.docsearch'
+    'sphinxawesome_theme'
 ]
 
 intersphinx_mapping = {
