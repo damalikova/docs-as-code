@@ -19,3 +19,5 @@ Contents
 .. toctree::
 
    usage
+   new1
+   new2
