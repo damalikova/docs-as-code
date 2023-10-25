@@ -23,6 +23,8 @@ extensions = [
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
     'sphinx_wagtail_theme',
+    'sphinxawesome.highlighting',
+    'sphinxawesome.docsearch'
 ]
 
 intersphinx_mapping = {
@@ -38,6 +40,6 @@ exclude_patterns = []
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-html_theme = 'sphinx_wagtail_theme'
+html_theme = 'sphinxawesome-theme'
 html_static_path = ['_static']
-html_css_files = ["custom.css"]
+# html_css_files = ["custom.css"]

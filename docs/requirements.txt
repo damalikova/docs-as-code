@@ -1,2 +1,2 @@
 sphinx==7.1.2
-sphinx_wagtail_theme==6.0.0
+sphinxawesome-theme==5.0.0b5
