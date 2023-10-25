@@ -1,3 +1,2 @@
 sphinx==7.2.6
-sphinxawesome-theme==4.1.0
-
+sphinxawesome-theme==5.0.0b5
