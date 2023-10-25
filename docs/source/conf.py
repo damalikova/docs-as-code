@@ -40,5 +40,6 @@ exclude_patterns = []
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
 html_theme = 'sphinxawesome_theme'
+html_logo = 'https://static.tildacdn.com/tild3136-3634-4662-b064-353530653036/Product.svg'
 html_static_path = ['_static']
 # html_css_files = ["custom.css"]
