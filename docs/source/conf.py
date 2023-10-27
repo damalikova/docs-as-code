@@ -35,8 +35,7 @@ intersphinx_mapping = {
     'sphinx': ('https://www.sphinx-doc.org/en/master/', None),
 }
 intersphinx_disabled_domains = ['std']
-hoverxref_auto_ref = True
-
+hoverxref_auto_ref = False
 templates_path = ['_templates']
 exclude_patterns = []
 
