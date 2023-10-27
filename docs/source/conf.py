@@ -26,7 +26,7 @@ extensions = [
     'sphinxawesome_theme.docsearch',
     'sphinxawesome_theme.highlighting',
     'sphinxawesome_theme.deprecated',
-    'sphinx_design',
+    # 'sphinx_design',
     'hoverxref.extension'
 ]
 
