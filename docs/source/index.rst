@@ -1,15 +1,13 @@
-Nemo Connect API Documentation
+Docs as Code & WebSky.Tech
 ============================================
 
-Если ты наведешь курсор :hoverxref:`сюда <get_random_ingredients>`, ты увидишь тултип на кусок статьи.
-
-Если ты наведешь курсор :hoverxrefmodal:`сюда <get_random_ingredients>`, ты увидишь модалку на тот же кусок статьи.
-
-Если ты наведешь курсор :hoverxref:`сюда <usage>`, ты увидишь модалку на всю статью.
+* Это :hoverxref:`тултип <get_random_ingredients>` на кусок статьи.
+* Это  :hoverxrefmodal:`модалка <get_random_ingredients>` на тот же кусок статьи.
+* Это :hoverxref:`тултип <usage>` на всю статью.
 
 .. note::
 
-   Work in progress
+   Перейди в :octicon:`search` **Поиск**, чтобы найти нужную :octicon:`file` статью.
 
 .. _cards-clickable:
 
