@@ -12,6 +12,7 @@ author = 'Graziella'
 
 release = '0.1'
 version = '0.1.0'
+language = 'ru'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
@@ -22,8 +23,11 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
-    'sphinxawesome_theme',
-    'sphinxawesome_theme.deprecated'
+    'sphinxawesome_theme.docsearch',
+    'sphinxawesome_theme.highlighting',
+    'sphinxawesome_theme.deprecated',
+    'sphinx_design',
+    'hoverxref.extension'
 ]
 
 intersphinx_mapping = {
@@ -31,6 +35,7 @@ intersphinx_mapping = {
     'sphinx': ('https://www.sphinx-doc.org/en/master/', None),
 }
 intersphinx_disabled_domains = ['std']
+hoverxref_auto_ref = True
 
 templates_path = ['_templates']
 exclude_patterns = []
