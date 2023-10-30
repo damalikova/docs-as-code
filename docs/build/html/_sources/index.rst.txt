@@ -17,27 +17,19 @@ Docs as Code & WebSky.Tech
    Перейди в :octicon:`search` **Поиск**, чтобы найти нужную :octicon:`file` статью.
 
 Карточное меню
----------------------------------
+--------------
 
 .. _cards-clickable:
 
-.. card:: Разводящая страница
-    :link: content-suppliers
-    :link-type: doc
-
-.. card:: Статья с кодом
-    :link: usage
-    :link-type: doc
-
 .. grid:: 2
 
-    .. card:: Разводящая страница
+    .. grid-item-card:: Разводящая страница
         :link: content-suppliers
         :link-type: doc
 
         Какое-то внятное описание
 
-    .. card:: Статья с кодом
+    .. grid-item-card:: Статья с кодом
         :link: usage
         :link-type: doc
 
