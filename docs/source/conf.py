@@ -6,9 +6,9 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Lumache'
-copyright = '2023, Graziella'
-author = 'Graziella'
+project = 'WebSky docs-as-code demo'
+copyright = '2023, WebSky.Tech'
+author = 'WebSky.Tech Writer'
 
 release = '0.1'
 version = '0.1.0'
@@ -35,7 +35,6 @@ intersphinx_mapping = {
     'sphinx': ('https://www.sphinx-doc.org/en/master/', None),
 }
 intersphinx_disabled_domains = ['std']
-hoverxref_auto_ref = False
 templates_path = ['_templates']
 exclude_patterns = []
 
